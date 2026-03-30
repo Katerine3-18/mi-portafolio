@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.14ce7d36.css",
+    "main.js": "./static/js/main.44060905.js",
+    "static/js/453.0947ac19.chunk.js": "./static/js/453.0947ac19.chunk.js",
+    "static/media/olenchic-boy-9864238_1920.png": "./static/media/olenchic-boy-9864238_1920.b03111ee2ead96e9d156.png",
+    "index.html": "./index.html",
+    "main.14ce7d36.css.map": "./static/css/main.14ce7d36.css.map",
+    "main.44060905.js.map": "./static/js/main.44060905.js.map",
+    "453.0947ac19.chunk.js.map": "./static/js/453.0947ac19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ce7d36.css",
+    "static/js/main.44060905.js"
+  ]
+}
